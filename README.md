@@ -7,7 +7,7 @@
  - 💫 I am currently finishing my PhD in particle physics.
  - 📈 I am looking for jobs in data science.
  - 💻 I have experience in Python, C++ and bash.
- - 📧 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-tbache-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-bache/)
+ - 📧 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Tom&nbsp;Bache-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-bache/)
  - 🏄‍♂️ Fun fact: I recently learnt to surf and enjoy going whenever I can!
 
 
